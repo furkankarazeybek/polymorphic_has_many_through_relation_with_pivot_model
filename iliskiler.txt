@@ -1,0 +1,24 @@
+//Project birçok user'a sahip, ve user birçok task'a sahip.
+
+//has_many_through_relation_with_pivot_model
+
+Project
+   id
+
+User 
+   id
+  
+project_user
+   project_id
+   user_id
+
+Task 
+    id
+    user_id
+
+
+VİDEO : https://www.youtube.com/watch?v=67dzvpebcgA&list=PL1TrjkMQ8UbVyIT0cDX-54gN5tunWZvaI&index=7
+
+
+
+  
